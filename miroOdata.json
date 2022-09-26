@@ -1,0 +1,69 @@
+
+{
+"Sheet1":[
+{
+  "VENDOR CODE": 100000,
+  "VENDOR NAME": "CUPRO ALLOYS CORPORATION1",
+  "PO No": 4000000524,
+  "PO Line No": 10,
+  "Goods Receipt Doc No": 5000001018,
+  "Material No.": 110000,
+  "Material Description": "Cu Sheet 1105 x 250 x 0.9 mm",
+  "Invoice Date": "01.09.2022",
+  "Posting Date": "01.09.2022",
+  "Quantity": 1,
+  "Base Amount": 10,
+  "Total Amount": 10,
+  "Tax Region": 24,
+  "PO Rate": 10
+},
+{
+  "VENDOR CODE": 100000,
+  "VENDOR NAME": "CUPRO ALLOYS CORPORATION1",
+  "PO No": 4000000525,
+  "PO Line No": 10,
+  "Goods Receipt Doc No": 5000001019,
+  "Material No.": 110003,
+  "Material Description": "Cu Outlet Pipe -13x11x418 -015P\/MP\/EP",
+  "Invoice Date": "01.09.2022",
+  "Posting Date": "01.09.2022",
+  "Quantity": 1,
+  "Base Amount": 425,
+  "Total Amount": 425,
+  "Tax Region": 24,
+  "PO Rate": 425
+},
+{
+  "VENDOR CODE": 100000,
+  "VENDOR NAME": "CUPRO ALLOYS CORPORATION1",
+  "PO No": 4000000527,
+  "PO Line No": 10,
+  "Goods Receipt Doc No": 5000001022,
+  "Material No.": 110000,
+  "Material Description": "Cu Sheet 1105 x 250 x 0.9 mm",
+  "Invoice Date": "02.09.2022",
+  "Posting Date": "02.09.2022",
+  "Quantity": 5,
+  "Base Amount": 50,
+  "Total Amount": 50,
+  "Tax Region": 24,
+  "PO Rate": 10
+},
+{
+  "VENDOR CODE": 100000,
+  "VENDOR NAME": "CUPRO ALLOYS CORPORATION1",
+  "PO No": 4100000027,
+  "PO Line No": 10,
+  "Goods Receipt Doc No": 5000001021,
+  "Material No.": 110000,
+  "Material Description": "Cu Sheet 1105 x 250 x 0.9 mm",
+  "Invoice Date": "01.09.2022",
+  "Posting Date": "01.09.2022",
+  "Quantity": 1,
+  "Base Amount": 10,
+  "Total Amount": 10,
+  "Tax Region": 24,
+  "PO Rate": 10
+}
+]
+}
