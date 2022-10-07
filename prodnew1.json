@@ -1,0 +1,83 @@
+{
+  "body":
+[
+  {
+    "id":"1",
+    "item_code" : "1",
+    "url":"R.drawable.a",
+    "brand":"Test 1",
+    "description":"Casual dress 1",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      },
+{
+    "id":"2",
+    "item_code" : "1",
+    "url":"R.drawable.b",
+    "brand":"Test 2",
+    "description":"Casual dress 2",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      },
+{
+    "id":"3",
+    "item_code" : "1",
+    "url":"R.drawable.c",
+    "brand":"Test 3",
+    "description":"Casual dress 3",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      },
+{
+    "id":"4",
+    "item_code" : "1",
+    "url":"R.drawable.d",
+    "brand":"Test 4",
+    "description":"Casual dress 4",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      },
+{
+    "id":"5",
+    "item_code" : "1",
+    "url":"R.drawable.e",
+    "brand":"Test 5",
+    "description":"Casual dress 5",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      },
+{
+    "id":"6",
+    "item_code" : "1",
+    "url":"R.drawable.f",
+    "brand":"Test 6",
+    "description":"Casual dress 6",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      },
+{
+    "id":"7",
+    "item_code" : "1",
+    "url":"R.drawable.g",
+    "brand":"Test 7",
+    "description":"Casual dress 7",
+    "price":"1000",
+    "mrp" : "2000",
+    "rating" : "4.5",
+    "reviews" : "120"
+      }
+
+
+]}
